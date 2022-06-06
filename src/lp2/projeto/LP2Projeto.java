@@ -1,4 +1,5 @@
 package lp2.projeto;
+import java.util.Date;
 import java.util.ArrayList; //importando ArrayList, pois será utilizado no projeto
 
 public class LP2Projeto {
